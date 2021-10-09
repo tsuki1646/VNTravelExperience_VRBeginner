@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Logo_Scene.unity
+    guid: ca34d7624f2764283894e5ee1bc95400
+  - enabled: 1
+    path: Assets/Scenes/WaterPuppet_Stage_3.unity
+    guid: cf4b3b1a0b14a452ca6faea36c312816
+  - enabled: 1
+    path: Assets/Scenes/Picture_Scene_4.unity
+    guid: 4e61661e34d204cbb827c13def3c3be0
+  - enabled: 1
+    path: Assets/Scenes/Giant_Hand_9.unity
+    guid: 07ed210fc360046ac83bcd99c9b618d3
+  - enabled: 1
+    path: Assets/Scenes/Last_Scene.unity
+    guid: fae70292c4eeb43f9b2045404e75b720
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 45980caa1755e42d3a0da6fdc8f955bf,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 734fc9e4fa69744a39cf61f6a49a5269,
+      type: 2}
