@@ -46,7 +46,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cursorVisual: {fileID: 6728338217945777944}
   maxLength: 10
-  _laserBeamBehavior: 2
 --- !u!120 &6697108977602319406
 LineRenderer:
   m_ObjectHideFlags: 0
@@ -65,7 +64,7 @@ LineRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e3444642a1d1346ba8683c66e1272378, type: 2}
+  - {fileID: 2100000, guid: 24cc907253fad434bbb52c2733395322, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

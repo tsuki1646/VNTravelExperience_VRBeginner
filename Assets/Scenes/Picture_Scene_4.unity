@@ -22312,7 +22312,7 @@ PrefabInstance:
         type: 3}
       propertyPath: rayTransform
       value: 
-      objectReference: {fileID: 1221549209}
+      objectReference: {fileID: 0}
     - target: {fileID: 6687733350390853144, guid: 6c9f7900d68854e2baf6e246e105f212,
         type: 3}
       propertyPath: joyPadClickButton

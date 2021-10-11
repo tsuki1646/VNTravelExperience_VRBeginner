@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: moon
-  productName: VN Travel_3
+  productName: VN Travel_202110
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -131,7 +131,9 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: -2359667585646382876, guid: 734fc9e4fa69744a39cf61f6a49a5269, type: 2}
+  - {fileID: 11400000, guid: 45980caa1755e42d3a0da6fdc8f955bf, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -175,7 +177,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.moon.VietnamTravel
-    Standalone: com.VRAcademy.VNAodaichan
+    Standalone: com.VRAcademy.VNAodaichan202110
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 25
